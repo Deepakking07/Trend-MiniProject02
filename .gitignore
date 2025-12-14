@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.terraform.tfstate*
+
+# OS/Docker
+.DS_Store
+Thumbs.db
+node_modules/
+target/
+build/
